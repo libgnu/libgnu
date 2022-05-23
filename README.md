@@ -18,23 +18,14 @@
 
 
 
-## ExᴛʀAᴄᴛᴇᴅ DᴀᴛᴀBᴀsᴇ Fʀᴏᴍ TᴇʟᴇGʀᴀᴍ's 
+## ExᴛʀAᴄᴛᴇᴅ DᴀᴛᴀBᴀsᴇ 
 
-🔭  I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ Tᴇᴀᴍ RᴀɪCʜᴜ
 
 🌱  I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ Pʏᴛʜᴏɴ Aɴᴅ PʏʀᴏGʀᴀᴍ
 
 🤔  I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ Nᴏᴏʙ Cᴏᴅᴇʀ
 
 
-Nᴀᴍᴇ = `"メ 丂ﾑﾶﾶƳ メ"`
-Aɢᴇ = `"Sᴇᴄʀᴇᴛ"`
-Gᴀɴɢ = `"GE"`
-Cᴏᴜɴᴛʀʏ = `"🇮🇳"`
-
-Tᴇʟᴇɢʀᴀᴍ ID: `1145990357`
-Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ: `@CallMRana`
-Bɪᴏ: 💙 | 🤟 `@RanaJiStore` 
 
 <p align="center"><a href="https://github.com/FriDayXD"><img src="https://github-readme-stats.vercel.app/api?username=FriDayXD&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/FriDayXD"><img src="ht
