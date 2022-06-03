@@ -25,7 +25,7 @@
     <li>🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ |Pʏᴛʜᴏɴ Aɴᴅ PʏʀᴏGʀᴀᴍ GᴏLᴀɴɢ|
     <li>🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ [Nᴏᴏʙ Cᴏᴅᴇʀ]
     <li>💬 I Mᴏꜱᴛʟʏ Uꜱᴇ <strong><a href="http://telegram.dog/ShaKaOp" target="_blank" rel="noopener noreferrer">TᴇʟᴇGʀᴀᴍ</a></strong>.</li>
-    <li>💡 <s><b>Fᴏʟʟᴏᴡ</b>ɪɴɢ <b>ᴍᴇ</b> Iꜱ WORTHLESS.</s></li>
+    <li>💡 <s><b>Fᴏʟʟᴏᴡ</b>ɪɴɢ <b>Mᴇ</b> Iꜱ WORTHLESS.</s></li>
 </ul>
 
 <h2>📌 Todo</h2>
