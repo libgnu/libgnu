@@ -31,5 +31,5 @@
 <img src="https://count.getloli.com/get/@CallMeShaKa?theme=rule34" alt="" srcset="" align="right">
   
 <div align="left">
-    <a href="https://t.me/ShakaOp"><img src="https://img.shields.io/badge/@ShaKaOp-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
+    <a href="https://t.me/ShakaOp"><img src="https://img.shields.io/badge/Contact Me-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
     <a href="mailto:me@mrsammyxd@gmail.com"><img src="https://img.shields.io/badge/Mail%20Me-30302f?style=fflat-square&logo=gmail" alt="" srcset=""></a>
