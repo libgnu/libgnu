@@ -49,3 +49,8 @@
 
 <br>
 <br>
+
+
+<h2>☕️ Coffee? yes!</h2>
+<p>
+    <a href="https://www.buymeacoffee.com/shakaop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
