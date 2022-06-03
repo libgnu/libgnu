@@ -24,3 +24,6 @@
 
 <p align="center"><a href="https://github.com/CallMeShaKa"><img src="https://github-readme-stats.vercel.app/api?username=CallMeShaKa&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/CallMeShaKa"><img src="ht
+
+<h3 align="right">Profile views</h3>
+<img src="https://count.getloli.com/get/@CallMeShaKa?theme=rule34" alt="" srcset="" align="right">
