@@ -21,8 +21,8 @@
 <a href="https://github.com/callmeshaka"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
 <ul>
-    <li>🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ **<a href="https://t.me/TeamRexoma">Tᴇᴀᴍ Rᴇxᴏᴍᴀ </a>**
-    <li>🧐 Currently mastering <strong>Python</strong> and learning <strong>Dart</strong></li>
+    <li>🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ |<a href="https://t.me/TeamRexoma">Tᴇᴀᴍ Rᴇxᴏᴍᴀ </a>|
+    <li>🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ |Pʏᴛʜᴏɴ Aɴᴅ PʏʀᴏGʀᴀᴍ GᴏLᴀɴɢ|
     <li>👨‍💻 Most of my projects are based on Python.</li>
     <li>💬 I mostly use <strong><a href="http://telegram.dog/ShaKaOp" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
     <li>💡 <s><b>Follow</b>ing <b>me</b> is WORTHLESS.</s></li>
