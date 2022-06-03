@@ -30,7 +30,7 @@
 
 <h2>📌 Todo</h2>
 
-- [x] 💬Contributions
-- [ ] 🎓Completed my Studies
-- [x] 🎯Created My Own Repository
+- [x] 💬 Contributions
+- [ ] 🎓 Completed my Studies
+- [x] 🎯 Created My Own Repository
 
