@@ -6,7 +6,7 @@
 </div>
 
 <h3>Quick Links</h3>
-<a href="https://github.com/CallMeShaka"><img src="https://img.shields.io/github/followers/ShaKa.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
+<a href="https://github.com/CallMeShaka"><img src="https://img.shields.io/github/followers/CallMeShaKa.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 <h3 align="right">Profile views</h3>
 <img src="https://count.getloli.com/get/@CallMeShaKa?theme=rule34" alt="" srcset="" align="right">
 
