@@ -25,8 +25,7 @@
     <li>🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ |Pʏᴛʜᴏɴ Aɴᴅ PʏʀᴏGʀᴀᴍ GᴏLᴀɴɢ|
     <li>🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ [Nᴏᴏʙ Cᴏᴅᴇʀ]
     <li>💬 I Mᴏꜱᴛʟʏ Uꜱᴇ <strong><a href="http://telegram.dog/ShaKaOp" target="_blank" rel="noopener noreferrer">TᴇʟᴇGʀᴀᴍ</a></strong>.</li>
-    <li>💡 <s><b>Follow</b>ing <b>me</b> is WORTHLESS.</s></li>
-    <li>🎉 Fun Fact: <strong>お前はもう死んでいる</strong></li>
+    <li>💡 <s><b>Fᴏʟʟᴏᴡ</b>ɪɴɢ <b>ᴍᴇ</b> Iꜱ WORTHLESS.</s></li>
 </ul>
 
 <h2>📌 Todo</h2>
