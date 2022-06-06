@@ -50,7 +50,7 @@
 <br>
 <br>
 
-![ShaKa's GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CallMeShaKa&theme=default)](https://github.com/CallMeShaKa)
+[![ShaKa's GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CallMeShaKa&theme=default)](https://github.com/CallMeShaKa)
 
 <h2>☕️ Coffee? yes!</h2>
 <p>
