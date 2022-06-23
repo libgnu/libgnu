@@ -35,7 +35,7 @@
 <h2>📌 Todo</h2>
 
 - [x] 💬 Contributions
-- [ ] 🎓 Completed my Studies
+- [ ] 🎓 Completed My Studies
 - [x] 🎯 Created My Own Repository
 
 
