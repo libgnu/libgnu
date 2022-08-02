@@ -4,7 +4,7 @@
 <div margin-left: 400px align="center" width="600">
 
 
- ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
+ ![operation end crime](https://telegra.ph/file/7ed37da7a5ab939722033.jpg)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
