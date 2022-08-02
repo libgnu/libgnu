@@ -3,8 +3,8 @@
 
 <div margin-left: 400px align="center" width="600">
 
-<img src="https://github.com/CallMeShaKa/CallMeShaKa/blob/main/HEHECODE.gif" alt=" Hello <𝚌𝚘𝚍𝚎𝚛𝚜/> " width="1200" height="250"/>
-</div>
+
+ ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
